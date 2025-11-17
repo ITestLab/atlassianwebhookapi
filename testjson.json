@@ -2,240 +2,231 @@ sha256=a7e84c50b397c5bbfa10ed60b19f1e248015ffa326a87a8d57036bf173339a73
 {"timestamp":1763411594112,"webhookEvent":"jira:issue_created","issue_event_type_name":"issue_created","user":{"self":"https://crewaijira.atlassian.net/rest/api/2/user?accountId=712020%3A27182628-700a-4854-8427-1400915dd8ec","accountId":"712020:27182628-700a-4854-8427-1400915dd8ec","avatarUrls":{"48x48":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png","24x24":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png","16x16":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png","32x32":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png"},"displayName":"aggregators aggregators","active":true,"timeZone":"America/Chicago","accountType":"atlassian"},"issue":{"id":"10113","self":"https://crewaijira.atlassian.net/rest/api/2/issue/10113","key":"SCRUM-18","fields":{"statuscategorychangedate":"2025-11-17T14:33:14.170-0600","issuetype":{"self":"https://crewaijira.atlassian.net/rest/api/2/issuetype/10004","id":"10004","description":"Stories track functionality or features expressed as user goals.","iconUrl":"https://crewaijira.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10315?size=medium","name":"Story","subtask":false,"avatarId":10315,"entityId":"a95ddd6d-afcf-4d33-99af-7c856c2c3945","hierarchyLevel":0},"components":[],"timespent":null,"timeoriginalestimate":null,"project":{"self":"https://crewaijira.atlassian.net/rest/api/2/project/10000","id":"10000","key":"SCRUM","name":"ScrumTest","projectTypeKey":"software","simplified":true,"avatarUrls":{"48x48":"https://crewaijira.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10404","24x24":"https://crewaijira.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10404?size=small","16x16":"https://crewaijira.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10404?size=xsmall","32x32":"https://crewaijira.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10404?size=medium"}},"description":null,"fixVersions":[],"statusCategory":{"self":"https://crewaijira.atlassian.net/rest/api/2/statuscategory/2","id":2,"key":"new","colorName":"blue-gray","name":"New"},"customfield_10034":null,"aggregatetimespent":null,"resolution":null,"timetracking":{},"customfield_10015":null,"security":null,"attachment":[],"aggregatetimeestimate":null,"resolutiondate":null,"workratio":-1,"summary":"tes story","issuerestriction":{"issuerestrictions":{},"shouldDisplay":true},"lastViewed":null,"watches":{"self":"https://crewaijira.atlassian.net/rest/api/2/issue/SCRUM-18/watchers","watchCount":0,"isWatching":false},"creator":{"self":"https://crewaijira.atlassian.net/rest/api/2/user?accountId=712020%3A27182628-700a-4854-8427-1400915dd8ec","accountId":"712020:27182628-700a-4854-8427-1400915dd8ec","avatarUrls":{"48x48":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png","24x24":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png","16x16":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png","32x32":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png"},"displayName":"aggregators aggregators","active":true,"timeZone":"America/Chicago","accountType":"atlassian"},"subtasks":[],"created":"2025-11-17T14:33:13.952-0600","customfield_10020":null,"customfield_10021":null,"reporter":{"self":"https://crewaijira.atlassian.net/rest/api/2/user?accountId=712020%3A27182628-700a-4854-8427-1400915dd8ec","accountId":"712020:27182628-700a-4854-8427-1400915dd8ec","avatarUrls":{"48x48":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png","24x24":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png","16x16":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png","32x32":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png"},"displayName":"aggregators aggregators","active":true,"timeZone":"America/Chicago","accountType":"atlassian"},"aggregateprogress":{"progress":0,"total":0},"priority":{"self":"https://crewaijira.atlassian.net/rest/api/2/priority/3","iconUrl":"https://crewaijira.atlassian.net/images/icons/priorities/medium_new.svg","name":"Medium","id":"3"},"customfield_10001":null,"labels":[],"customfield_10016":null,"environment":null,"customfield_10019":"0|i0003r:","timeestimate":null,"aggregatetimeoriginalestimate":null,"versions":[],"duedate":null,"progress":{"progress":0,"total":0},"votes":{"self":"https://crewaijira.atlassian.net/rest/api/2/issue/SCRUM-18/votes","votes":0,"hasVoted":false},"issuelinks":[],"assignee":{"self":"https://crewaijira.atlassian.net/rest/api/2/user?accountId=712020%3A27182628-700a-4854-8427-1400915dd8ec","accountId":"712020:27182628-700a-4854-8427-1400915dd8ec","avatarUrls":{"48x48":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png","24x24":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png","16x16":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png","32x32":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png"},"displayName":"aggregators aggregators","active":true,"timeZone":"America/Chicago","accountType":"atlassian"},"updated":"2025-11-17T14:33:13.952-0600","status":{"self":"https://crewaijira.atlassian.net/rest/api/2/status/10000","description":"","iconUrl":"https://crewaijira.atlassian.net/images/icons/statuses/generic.png","name":"To Do","id":"10000","statusCategory":{"self":"https://crewaijira.atlassian.net/rest/api/2/statuscategory/2","id":2,"key":"new","colorName":"blue-gray","name":"New"}}}},"changelog":{"id":"10132","items":[{"field":"assignee","fieldtype":"jira","fieldId":"assignee","from":null,"fromString":null,"to":"712020:27182628-700a-4854-8427-1400915dd8ec","toString":"aggregators aggregators","tmpFromAccountId":null,"tmpToAccountId":"712020:27182628-700a-4854-8427-1400915dd8ec"},{"field":"priority","fieldtype":"jira","fieldId":"priority","from":null,"fromString":null,"to":"3","toString":"Medium"},{"field":"reporter","fieldtype":"jira","fieldId":"reporter","from":null,"fromString":null,"to":"712020:27182628-700a-4854-8427-1400915dd8ec","toString":"aggregators aggregators","tmpFromAccountId":null,"tmpToAccountId":"712020:27182628-700a-4854-8427-1400915dd8ec"},{"field":"Status","fieldtype":"jira","fieldId":"status","from":null,"fromString":null,"to":"10000","toString":"To Do"},{"field":"summary","fieldtype":"jira","fieldId":"summary","from":null,"fromString":null,"to":null,"toString":"tes story"}]}}
 
 {
-"timestamp":1763411594112,
-"webhookEvent":"jira:issue_created",
-"issue_event_type_name":"issue_created",
-"user":{
-"self":"https://crewaijira.atlassian.net/rest/api/2/user?accountId=712020%3A27182628-700a-4854-8427-1400915dd8ec",
-"accountId":"712020:27182628-700a-4854-8427-1400915dd8ec",
-"avatarUrls":{
-"48x48":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png",
-"24x24":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png",
-"16x16":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png",
-"32x32":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png"
-},
-"displayName":"aggregators aggregators",
-"active":true,
-"timeZone":"America/Chicago",
-"accountType":"atlassian"
-},
-"issue":{
-"id":"10113",
-"self":"https://crewaijira.atlassian.net/rest/api/2/issue/10113",
-"key":"SCRUM-18",
-"fields":{
-"statuscategorychangedate":"2025-11-17T14:33:14.170-0600",
-"issuetype":{
-"self":"https://crewaijira.atlassian.net/rest/api/2/issuetype/10004",
-"id":"10004",
-"description":"Stories track functionality or features expressed as user goals.",
-"iconUrl":"https://crewaijira.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10315?size=medium",
-"name":"Story",
-"subtask":false,
-"avatarId":10315,
-"entityId":"a95ddd6d-afcf-4d33-99af-7c856c2c3945",
-"hierarchyLevel":0
-},
-"components":{
-},
-"timespent":null,
-"timeoriginalestimate":null,
-"project":{
-"self":"https://crewaijira.atlassian.net/rest/api/2/project/10000",
-"id":"10000",
-"key":"SCRUM",
-"name":"ScrumTest",
-"projectTypeKey":"software",
-"simplified":true,
-"avatarUrls":{
-"48x48":"https://crewaijira.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10404",
-"24x24":"https://crewaijira.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10404?size=small",
-"16x16":"https://crewaijira.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10404?size=xsmall",
-"32x32":"https://crewaijira.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10404?size=medium"
-}
-},
-"description":null,
-"fixVersions":{
-},
-"statusCategory":{
-"self":"https://crewaijira.atlassian.net/rest/api/2/statuscategory/2",
-"id":2,
-"key":"new",
-"colorName":"blue-gray",
-"name":"New"
-},
-"customfield_10034":null,
-"aggregatetimespent":null,
-"resolution":null,
-"timetracking":{
-},
-"customfield_10015":null,
-"security":null,
-"attachment":{
-},
-"aggregatetimeestimate":null,
-"resolutiondate":null,
-"workratio":-1,
-"summary":"tes story",
-"issuerestriction":{
-"issuerestrictions":{
-},
-"shouldDisplay":true
-},
-"lastViewed":null,
-"watches":{
-"self":"https://crewaijira.atlassian.net/rest/api/2/issue/SCRUM-18/watchers",
-"watchCount":0,
-"isWatching":false
-},
-"creator":{
-"self":"https://crewaijira.atlassian.net/rest/api/2/user?accountId=712020%3A27182628-700a-4854-8427-1400915dd8ec",
-"accountId":"712020:27182628-700a-4854-8427-1400915dd8ec",
-"avatarUrls":{
-"48x48":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png",
-"24x24":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png",
-"16x16":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png",
-"32x32":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png"
-},
-"displayName":"aggregators aggregators",
-"active":true,
-"timeZone":"America/Chicago",
-"accountType":"atlassian"
-},
-"subtasks":{
-},
-"created":"2025-11-17T14:33:13.952-0600",
-"customfield_10020":null,
-"customfield_10021":null,
-"reporter":{
-"self":"https://crewaijira.atlassian.net/rest/api/2/user?accountId=712020%3A27182628-700a-4854-8427-1400915dd8ec",
-"accountId":"712020:27182628-700a-4854-8427-1400915dd8ec",
-"avatarUrls":{
-"48x48":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png",
-"24x24":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png",
-"16x16":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png",
-"32x32":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png"
-},
-"displayName":"aggregators aggregators",
-"active":true,
-"timeZone":"America/Chicago",
-"accountType":"atlassian"
-},
-"aggregateprogress":{
-"progress":0,
-"total":0
-},
-"priority":{
-"self":"https://crewaijira.atlassian.net/rest/api/2/priority/3",
-"iconUrl":"https://crewaijira.atlassian.net/images/icons/priorities/medium_new.svg",
-"name":"Medium",
-"id":"3"
-},
-"customfield_10001":null,
-"labels":{
-},
-"customfield_10016":null,
-"environment":null,
-"customfield_10019":"0|i0003r:",
-"timeestimate":null,
-"aggregatetimeoriginalestimate":null,
-"versions":{
-},
-"duedate":null,
-"progress":{
-"progress":0,
-"total":0
-},
-"votes":{
-"self":"https://crewaijira.atlassian.net/rest/api/2/issue/SCRUM-18/votes",
-"votes":0,
-"hasVoted":false
-},
-"issuelinks":{
-},
-"assignee":{
-"self":"https://crewaijira.atlassian.net/rest/api/2/user?accountId=712020%3A27182628-700a-4854-8427-1400915dd8ec",
-"accountId":"712020:27182628-700a-4854-8427-1400915dd8ec",
-"avatarUrls":{
-"48x48":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png",
-"24x24":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png",
-"16x16":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png",
-"32x32":"https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png"
-},
-"displayName":"aggregators aggregators",
-"active":true,
-"timeZone":"America/Chicago",
-"accountType":"atlassian"
-},
-"updated":"2025-11-17T14:33:13.952-0600",
-"status":{
-"self":"https://crewaijira.atlassian.net/rest/api/2/status/10000",
-"description":"",
-"iconUrl":"https://crewaijira.atlassian.net/images/icons/statuses/generic.png",
-"name":"To Do",
-"id":"10000",
-"statusCategory":{
-"self":"https://crewaijira.atlassian.net/rest/api/2/statuscategory/2",
-"id":2,
-"key":"new",
-"colorName":"blue-gray",
-"name":"New"
-}
-}
-}
-},
-"changelog":{
-"id":"10132",
-"items":[
-{
-"field":"assignee",
-"fieldtype":"jira",
-"fieldId":"assignee",
-"from":null,
-"fromString":null,
-"to":"712020:27182628-700a-4854-8427-1400915dd8ec",
-"toString":"aggregators aggregators",
-"tmpFromAccountId":null,
-"tmpToAccountId":"712020:27182628-700a-4854-8427-1400915dd8ec"
-},
-{
-"field":"priority",
-"fieldtype":"jira",
-"fieldId":"priority",
-"from":null,
-"fromString":null,
-"to":"3",
-"toString":"Medium"
-},
-{
-"field":"reporter",
-"fieldtype":"jira",
-"fieldId":"reporter",
-"from":null,
-"fromString":null,
-"to":"712020:27182628-700a-4854-8427-1400915dd8ec",
-"toString":"aggregators aggregators",
-"tmpFromAccountId":null,
-"tmpToAccountId":"712020:27182628-700a-4854-8427-1400915dd8ec"
-},
-{
-"field":"Status",
-"fieldtype":"jira",
-"fieldId":"status",
-"from":null,
-"fromString":null,
-"to":"10000",
-"toString":"To Do"
-},
-{
-"field":"summary",
-"fieldtype":"jira",
-"fieldId":"summary",
-"from":null,
-"fromString":null,
-"to":null,
-"toString":"tes story"
-}
-]
-}
+  "timestamp": 1763411525261,
+  "webhookEvent": "jira:issue_created",
+  "issue_event_type_name": "issue_created",
+  "user": {
+    "self": "https://crewaijira.atlassian.net/rest/api/2/user?accountId=712020%3A27182628-700a-4854-8427-1400915dd8ec",
+    "accountId": "712020:27182628-700a-4854-8427-1400915dd8ec",
+    "avatarUrls": {
+      "48x48": "https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png",
+      "24x24": "https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png",
+      "16x16": "https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png",
+      "32x32": "https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png"
+    },
+    "displayName": "aggregators aggregators",
+    "active": true,
+    "timeZone": "America/Chicago",
+    "accountType": "atlassian"
+  },
+  "issue": {
+    "id": "10112",
+    "self": "https://crewaijira.atlassian.net/rest/api/2/issue/10112",
+    "key": "SCRUM-17",
+    "fields": {
+      "statuscategorychangedate": "2025-11-17T14:32:05.308-0600",
+      "issuetype": {
+        "self": "https://crewaijira.atlassian.net/rest/api/2/issuetype/10004",
+        "id": "10004",
+        "description": "Stories track functionality or features expressed as user goals.",
+        "iconUrl": "https://crewaijira.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10315?size=medium",
+        "name": "Story",
+        "subtask": false,
+        "avatarId": 10315,
+        "entityId": "a95ddd6d-afcf-4d33-99af-7c856c2c3945",
+        "hierarchyLevel": 0
+      },
+      "components": [],
+      "timespent": null,
+      "timeoriginalestimate": null,
+      "project": {
+        "self": "https://crewaijira.atlassian.net/rest/api/2/project/10000",
+        "id": "10000",
+        "key": "SCRUM",
+        "name": "ScrumTest",
+        "projectTypeKey": "software",
+        "simplified": true,
+        "avatarUrls": {
+          "48x48": "https://crewaijira.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10404",
+          "24x24": "https://crewaijira.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10404?size=small",
+          "16x16": "https://crewaijira.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10404?size=xsmall",
+          "32x32": "https://crewaijira.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10404?size=medium"
+        }
+      },
+      "description": null,
+      "fixVersions": [],
+      "statusCategory": {
+        "self": "https://crewaijira.atlassian.net/rest/api/2/statuscategory/2",
+        "id": 2,
+        "key": "new",
+        "colorName": "blue-gray",
+        "name": "New"
+      },
+      "customfield_10034": null,
+      "aggregatetimespent": null,
+      "resolution": null,
+      "timetracking": {},
+      "customfield_10015": null,
+      "security": null,
+      "attachment": [],
+      "aggregatetimeestimate": null,
+      "resolutiondate": null,
+      "workratio": -1,
+      "summary": "Add story",
+      "issuerestriction": {
+        "issuerestrictions": {},
+        "shouldDisplay": true
+      },
+      "lastViewed": null,
+      "watches": {
+        "self": "https://crewaijira.atlassian.net/rest/api/2/issue/SCRUM-17/watchers",
+        "watchCount": 0,
+        "isWatching": false
+      },
+      "creator": {
+        "self": "https://crewaijira.atlassian.net/rest/api/2/user?accountId=712020%3A27182628-700a-4854-8427-1400915dd8ec",
+        "accountId": "712020:27182628-700a-4854-8427-1400915dd8ec",
+        "avatarUrls": {
+          "48x48": "https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png",
+          "24x24": "https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png",
+          "16x16": "https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png",
+          "32x32": "https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png"
+        },
+        "displayName": "aggregators aggregators",
+        "active": true,
+        "timeZone": "America/Chicago",
+        "accountType": "atlassian"
+      },
+      "subtasks": [],
+      "created": "2025-11-17T14:32:04.779-0600",
+      "customfield_10020": null,
+      "customfield_10021": null,
+      "reporter": {
+        "self": "https://crewaijira.atlassian.net/rest/api/2/user?accountId=712020%3A27182628-700a-4854-8427-1400915dd8ec",
+        "accountId": "712020:27182628-700a-4854-8427-1400915dd8ec",
+        "avatarUrls": {
+          "48x48": "https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png",
+          "24x24": "https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png",
+          "16x16": "https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png",
+          "32x32": "https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png"
+        },
+        "displayName": "aggregators aggregators",
+        "active": true,
+        "timeZone": "America/Chicago",
+        "accountType": "atlassian"
+      },
+      "aggregateprogress": {
+        "progress": 0,
+        "total": 0
+      },
+      "priority": {
+        "self": "https://crewaijira.atlassian.net/rest/api/2/priority/3",
+        "iconUrl": "https://crewaijira.atlassian.net/images/icons/priorities/medium_new.svg",
+        "name": "Medium",
+        "id": "3"
+      },
+      "customfield_10001": null,
+      "labels": [],
+      "customfield_10016": null,
+      "environment": null,
+      "customfield_10019": "0|i0003j:",
+      "timeestimate": null,
+      "aggregatetimeoriginalestimate": null,
+      "versions": [],
+      "duedate": null,
+      "progress": {
+        "progress": 0,
+        "total": 0
+      },
+      "votes": {
+        "self": "https://crewaijira.atlassian.net/rest/api/2/issue/SCRUM-17/votes",
+        "votes": 0,
+        "hasVoted": false
+      },
+      "issuelinks": [],
+      "assignee": {
+        "self": "https://crewaijira.atlassian.net/rest/api/2/user?accountId=712020%3A27182628-700a-4854-8427-1400915dd8ec",
+        "accountId": "712020:27182628-700a-4854-8427-1400915dd8ec",
+        "avatarUrls": {
+          "48x48": "https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png",
+          "24x24": "https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png",
+          "16x16": "https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png",
+          "32x32": "https://secure.gravatar.com/avatar/3e761d58cddab6bb319ea61a020d6820?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-5.png"
+        },
+        "displayName": "aggregators aggregators",
+        "active": true,
+        "timeZone": "America/Chicago",
+        "accountType": "atlassian"
+      },
+      "updated": "2025-11-17T14:32:04.779-0600",
+      "status": {
+        "self": "https://crewaijira.atlassian.net/rest/api/2/status/10000",
+        "description": "",
+        "iconUrl": "https://crewaijira.atlassian.net/images/icons/statuses/generic.png",
+        "name": "To Do",
+        "id": "10000",
+        "statusCategory": {
+          "self": "https://crewaijira.atlassian.net/rest/api/2/statuscategory/2",
+          "id": 2,
+          "key": "new",
+          "colorName": "blue-gray",
+          "name": "New"
+        }
+      }
+    }
+  },
+  "changelog": {
+    "id": "10131",
+    "items": [
+      {
+        "field": "assignee",
+        "fieldtype": "jira",
+        "fieldId": "assignee",
+        "from": null,
+        "fromString": null,
+        "to": "712020:27182628-700a-4854-8427-1400915dd8ec",
+        "toString": "aggregators aggregators",
+        "tmpFromAccountId": null,
+        "tmpToAccountId": "712020:27182628-700a-4854-8427-1400915dd8ec"
+      },
+      {
+        "field": "priority",
+        "fieldtype": "jira",
+        "fieldId": "priority",
+        "from": null,
+        "fromString": null,
+        "to": "3",
+        "toString": "Medium"
+      },
+      {
+        "field": "reporter",
+        "fieldtype": "jira",
+        "fieldId": "reporter",
+        "from": null,
+        "fromString": null,
+        "to": "712020:27182628-700a-4854-8427-1400915dd8ec",
+        "toString": "aggregators aggregators",
+        "tmpFromAccountId": null,
+        "tmpToAccountId": "712020:27182628-700a-4854-8427-1400915dd8ec"
+      },
+      {
+        "field": "Status",
+        "fieldtype": "jira",
+        "fieldId": "status",
+        "from": null,
+        "fromString": null,
+        "to": "10000",
+        "toString": "To Do"
+      },
+      {
+        "field": "summary",
+        "fieldtype": "jira",
+        "fieldId": "summary",
+        "from": null,
+        "fromString": null,
+        "to": null,
+        "toString": "Add story"
+      }
+    ]
+  }
 }

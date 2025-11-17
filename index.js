@@ -56,6 +56,9 @@ const validateWebhookSignature = (req, res, next) => {
   hmac.update(req.rawBody || '');
   const computedHash = hmac.digest('hex');
 
+    // Log hash comparison
+    console.log(`hash === computedHash: ${hash} === ${computedHash} => ${hash === computedHash}`);
+
   // Compare signatures
   if (hash !== computedHash) {
     return res.status(401).json({
@@ -71,6 +74,15 @@ const validateWebhookSignature = (req, res, next) => {
 
 // Webhook endpoint with signature validation
 app.post('/webhook', validateWebhookSignature, (req, res) => {
+  // Log incoming headers
+  console.log('=== Webhook Request Headers ===');
+  console.log(JSON.stringify(req.headers, null, 2));
+  
+  // Log the signature header
+  const signatureHeader = req.headers['x-hub-signature'];
+  console.log('=== Converted Signature to String ===');
+  console.log(signatureHeader);
+  
   res.json({
     message: 'Webhook signature validated successfully',
     body: req.body,

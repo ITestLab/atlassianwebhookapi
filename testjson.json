@@ -1,3 +1,4 @@
+sha256=a7e84c50b397c5bbfa10ed60b19f1e248015ffa326a87a8d57036bf173339a73
 {
 "timestamp":1763411594112,
 "webhookEvent":"jira:issue_created",

@@ -83,6 +83,18 @@ app.post('/webhook', validateWebhookSignature, (req, res) => {
   console.log('=== Converted Signature to String ===');
   console.log(signatureHeader);
   
+  // Log the request body (parsed) and the raw body used for signature validation
+  console.log('=== Webhook Request Body (parsed) ===');
+  try {
+    console.log(JSON.stringify(req.body, null, 2));
+  } catch (err) {
+    console.log('Could not stringify parsed body:', err);
+    console.log(req.body);
+  }
+
+  console.log('=== Webhook Raw Body ===');
+  console.log(req.rawBody);
+  
   res.json({
     message: 'Webhook signature validated successfully',
     body: req.body,
